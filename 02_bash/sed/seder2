@@ -1,0 +1,1 @@
+sed 's#\(l..e\)#\1r#g' sed.txt
