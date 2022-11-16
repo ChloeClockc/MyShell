@@ -1,0 +1,12 @@
+
+[2022-03-16 11:13:51] [INFO ] [HTTP-8080-42] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316111345351439440629，查询耗时：00:00:00-048
+[2022-03-16 11:40:34] [INFO ] [HTTP-8080-39] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316114034533992448620，查询耗时：00:00:00-041
+[2022-03-16 13:46:44] [INFO ] [HTTP-8080-45] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316134635444923444090，查询耗时：00:00:00-050
+[2022-03-16 14:11:31] [INFO ] [HTTP-8080-22] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316141135331108449597，查询耗时：00:00:00-460
+[2022-03-16 14:17:50] [INFO ] [HTTP-8080-28] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316141734550207444978，查询耗时：00:00:00-203
+[2022-03-16 14:29:59] [INFO ] [HTTP-8080-11] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316142934559687445826，查询耗时：00:00:00-050
+[2022-03-16 15:39:04] [INFO ] [HTTP-8080-21] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316153953404135446605，查询耗时：00:00:00-258
+[2022-03-16 16:52:10] [INFO ] [HTTP-8080-49] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316165235410422448112，查询耗时：00:00:00-285
+[2022-03-16 16:56:55] [INFO ] [HTTP-8080-88] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316165635354775449438，查询耗时：00:00:00-225
+[2022-03-16 17:09:30] [INFO ] [HTTP-8080-13] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316170534930039443032，查询耗时：00:00:00-595
+[2022-03-16 17:09:30] [INFO ] [HTTP-8080-13] {com.test.service.impl.InterfaceServiceImpl:301}-账户：3425heskgi83453495het3425，接口：gettest，流水号：220316170534930039443032，查询耗时：01:00:00-595

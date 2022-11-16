@@ -1,0 +1,2 @@
+#引用id：和init。。 \1 \2 数字替换成5
+ sed 's@\(id:\)[0-9]\(:initdefault:\)@\15\2@g' inittab
